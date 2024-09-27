@@ -1,1 +1,1 @@
-# life-science-research-resource
+# Life Science Research Resource
