@@ -1,0 +1,27 @@
+.DS_Store
+feature-extraction/label_encoding_mutation_model_vector_100.w2v.syn1neg.npy  
+feature-extraction/label_encoding_mutation_model_vector_100.w2v.wv.vectors.npy 
+data/frequency_based_encoding_X.csv 
+data/frequency_based_encoding_X_test.csv
+data/multi_freq_based_encoding_X.csv
+data/multi_hot_encoding_X.csv
+data/multi_hot_encoding_X_test.csv 
+# 로그 파일 무시
+*.log
+
+# 임시 파일 무시
+*.tmp
+
+# 빌드 결과물 무시
+/build/
+
+# 특정 디렉토리 무시
+/node_modules/
+
+# 설정 파일 무시 (단, 예시 파일은 포함)
+config.json
+!config.example.json
+
+# IDE 설정 파일 무시
+.vscode/
+.idea/
